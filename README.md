@@ -7,9 +7,7 @@
 
 ### Connect with me:
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="vikrant's LinkedIn" width="40" height="40" />](https://www.linkedin.com/in/vikrantgawale/)
-
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Vikrant's Instagram" width="40" height="40" />](https://instagram.com/vikrantttt.01)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="vikrant's LinkedIn" width="40" height="40" />](https://www.linkedin.com/in/vikrantgawale/) [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Vikrant's Instagram" width="40" height="40" />](https://instagram.com/vikrantttt.01)
 
 ### Languages and Tools:
 
