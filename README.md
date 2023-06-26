@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vikrant Gawale
 
-### I am a 2023 graduate with a Bachelor of Engineering in Technology degree. I am currently seeking Full-Time Roles in Software Development. I am passionate about new technologies and love to explore them.
+### I am a 2023 graduate with a Bachelor of Engineering in Information Technology degree. I am currently seeking Full-Time Roles in Software Development. I am passionate about new technologies and love to explore them.
 
 - 📫 How to reach me **vikrantgawale123@gmail.com**
 - ⚡ Fun fact: **I like watching Anime**
